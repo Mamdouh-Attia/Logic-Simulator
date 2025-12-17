@@ -6,31 +6,17 @@
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 
 ---
+## 📼 Watch Demo video Link
+
+[![Logic Simulator Demo](./circuit_simulation.png)](./logic_simulator_demo.mkv)
+
+
+---
 
 ## 🌟 Overview
 
 Logic-Simulator is a modern desktop application for designing, simulating, and analyzing digital logic circuits. Built in C++ with a strong focus on Object-Oriented Programming (OOP), it provides an intuitive GUI for creating circuits using a variety of logic gates and tools. This project was developed as a college assignment to demonstrate advanced OOP and GUI programming skills.
-
----
-
-## ✨ Features
-
-- Drag-and-drop logic gate placement (AND, OR, NOT, NAND, NOR, XOR, XNOR)
-- Connect gates visually and simulate outputs in real time
-- Copy, delete, and move one or multiple gates
-- Save/load circuit designs
-- Undo/redo actions
-- Circuit validation and error highlighting
-- User-friendly GUI with custom graphics
-
----
-
-## 🛠️ Technologies Used
-
-- C++ (core logic)
-- OOP design patterns (Factory, Command, Observer)
-- Custom graphics library (CMUgraphicsLib)
-- Windows desktop application
+ows desktop application
 
 ---
 
@@ -57,6 +43,15 @@ Logic-Simulator is a modern desktop application for designing, simulating, and a
 - **OOP:** Enables extensibility (add new gates/features easily), maintainability, and code reuse.
 - **GUI:** Makes circuit design accessible and interactive, ideal for learning and prototyping.
 - **Patterns:** Command and Observer patterns simplify complex user interactions and state management.
+
+---
+## My Contributions
+- Implemented core user action handling through the Application Manager.
+- Designed and implemented the `getUserAction()` flow to interpret user inputs.
+- Developed key action functions including Save/Load circuits, Change Switch state, and Exit logic.
+- Integrated action execution logic within the App Manager.
+- Contributed to user interface usability and interaction flow improvements.
+
 
 ---
 
