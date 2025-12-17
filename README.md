@@ -5,11 +5,13 @@
 ![Language](https://img.shields.io/badge/language-C++-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 
+<img width="1883" height="972" alt="circuit_simulation" src="https://github.com/user-attachments/assets/b31b4027-33bd-4791-b1ff-de83ebfe1ab7" />
+
+
 ---
 ## 📼 Watch Demo video Link
 
-[![Logic Simulator Demo](./circuit_simulation.png)](./logic_simulator_demo.mkv)
-
+https://github.com/user-attachments/assets/bd92367a-6ed5-42df-831c-a00156c657d3
 
 ---
 
